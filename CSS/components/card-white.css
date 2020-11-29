@@ -1,0 +1,25 @@
+.card-white {
+  background-color: white;
+  padding:20px;
+  border: 1px solid lightgrey;
+  border-radius: 5px;
+  box-shadow: 0px 10px 30px rgba(0,0,0,0.3);
+  align-items: center;
+  justify-content: center;
+  flex-basis: 300px;
+  flex-grow: 1;
+  text-align: center;
+  display: flex;
+  flex-wrap: wrap;
+  margin:20px;
+}
+
+.card-white img {
+  border-radius: 10px;
+  width: 155px;
+  padding: 30px;
+}
+
+.card-white a, h2 {
+  margin: 30px;
+}

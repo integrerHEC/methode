@@ -1,0 +1,44 @@
+@import url("https://fonts.googleapis.com/css?family=Lora:400,700|Roboto:300,400,700");
+@import url("components/banner.css");
+@import url("components/avatar.css");
+@import url("components/button.css");
+@import url("components/buttonB.css");
+@import url("components/container.css");
+@import url("components/card-white.css");
+@import url("components/list-inline.css");
+@import url("components/cards.css");
+@import url("components/presentation.css");
+
+
+body {
+  font-family: 'Lora', serif;
+  font-size: 22px;
+  line-height: 1.5;
+  background-color: rgb(235,235,235);
+  color: rgb(70,70,70);
+  text-align: justify;
+  text-justify: inter-word;
+  margin: 0px;
+}
+
+
+h1,h2,h3 {
+  font-family: 'Roboto', sans-serif;
+   color: rgb(70,70,70);
+}
+
+h1 {
+  text-align: center;
+  font-size:50px;
+}
+
+h2{
+  margin-top: 60px
+}
+
+a {
+  text-decoration: none;
+}
+.typeform-widget {
+  margin-top: 20px
+}

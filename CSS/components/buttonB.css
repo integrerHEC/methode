@@ -1,0 +1,15 @@
+.buttonB  {
+  margin-top: 110px;
+  color: white;
+  background-color:rgb(110,110,140);
+  padding: 15px 20px;
+  border-radius: 4px;
+  position: absolute; /* postulat de départ */
+  top: 50%; left: 50%; /* à 50%/50% du parent référent */
+  transform: translate(-50%, -50%); /* décalage de 50% de sa propre taille */
+}
+.buttonB:hover {
+  color: white;
+  background-color: black
+}
+
